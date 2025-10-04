@@ -1,7 +1,7 @@
 package phepgianno;
 
 import java.util.Scanner;
-
+// Done 18/20 testcases because TLE.
 public class Solution {
 
     static int[][] directions = {
